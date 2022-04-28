@@ -26,4 +26,4 @@ if answer == "left":
 elif answer == "right":
 	print("You found the city. Your adventure has ended successfully.")
 else:
-	print("Not a valid option. You lose.")
+	print("Not a valid option. You lose. ")
